@@ -1,1 +1,2 @@
 # thecproglang
+i hate terminal
